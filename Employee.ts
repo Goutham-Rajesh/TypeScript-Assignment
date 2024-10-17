@@ -24,4 +24,4 @@ function addEmployee(employeeId: number, employeeName: string, employeeAge: numb
 
 addEmployee(100, "Goutham", 22); // Adds the employee
 addEmployee(100, "Alan", 30);   // Will not add this employee, ID already exists
-addEmployee(101, "Lucifer", 25);   // Adds this employee
+addEmployee(101, "Lucifer", 25);   // Adds this employeen
